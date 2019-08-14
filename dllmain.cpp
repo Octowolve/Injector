@@ -1,5 +1,9 @@
-#include "pch.h"
-#include <Windows.h>
+#include "framework.h"
+#include <iostream>
+#include <string>
+#include <windows.h>
+#include <tlhelp32.h>
+#include <fstream>
 #include <string>
 extern "C"
 {
